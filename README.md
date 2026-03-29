@@ -12,7 +12,7 @@ Available for freelance AI/ML projects.
 | Project | What it does | Tech |
 |---|---|---|
 | [Gen AI Manufacturing Scheduler](link) | AI-powered production scheduling — built for TCS industry PS | Python, Gen AI, LLM |
-| [Autonomous AI Pharmacy System](https://github.com/shrutikahage2005/AI_Pharmacist) | Agentic AI that manages pharmacy workflows end-to-end | TypeScript, AI Agents |
+| [Autonomous AI Pharmacy System](https://github.com/shrutikahage2005/AI_Pharmacist) | Agentic AI that manages pharmacy workflows end-to-end | React, AI Agents |
 | [AI Skill-Gap Analyzer](https://github.com/shrutikahage2005/skill-gap-analyzer) | Analyses resumes & identifies skill gaps for career growth | Python, NLP |
 | [Water Monitoring System](link) | IoT + AI system for real-time water quality monitoring | Python, IoT, ML |
 
