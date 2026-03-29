@@ -1,6 +1,6 @@
 # Hi, I'm Shrutika Hage 👋
 
-**AI & Data Science Engineer** | 3rd Year | Pune, India
+**AI & Data Science Engineer** | 3rd Year | Amravati, India
 
 I build real-world AI systems — from autonomous agents to Gen AI schedulers.
 Available for freelance AI/ML projects.
