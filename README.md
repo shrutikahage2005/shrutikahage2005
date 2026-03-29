@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Shrutika Hage 👋
 
-<!--
-**shrutikahage2005/shrutikahage2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Data Science Engineer** | 3rd Year | Pune, India
 
-Here are some ideas to get you started:
+I build real-world AI systems — from autonomous agents to Gen AI schedulers.
+Available for freelance AI/ML projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [Gen AI Manufacturing Scheduler](link) | AI-powered production scheduling — built for TCS industry PS | Python, Gen AI, LLM |
+| [Autonomous AI Pharmacy System](https://github.com/shrutikahage2005/AI_Pharmacist) | Agentic AI that manages pharmacy workflows end-to-end | TypeScript, AI Agents |
+| [AI Skill-Gap Analyzer](https://github.com/shrutikahage2005/skill-gap-analyzer) | Analyses resumes & identifies skill gaps for career growth | Python, NLP |
+| [Water Monitoring System](link) | IoT + AI system for real-time water quality monitoring | Python, IoT, ML |
+
+---
+
+## 🛠 Skills
+`Python` `TypeScript` `Machine Learning` `LangChain` `Gen AI` `NLP` `IoT` `Data Analysis` `Streamlit`
+
+---
+
+## 📬 Let's connect
+- LinkedIn: [Shrutika Hage](https://www.linkedin.com/in/shrutika-hage-a1b9a5290/)
+- Open to: Freelance projects · Internships · Collaborations
