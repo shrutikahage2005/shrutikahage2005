@@ -1,106 +1,176 @@
-# Hi there! I'm Shrutika Hage 👋
+<h1 align="center">Hi, I'm Shrutika Hage 👋</h1>
 
-🎓 B.Tech in Artificial Intelligence & Data Science
-📍 India | 3rd Year Student
-🔭 Currently building projects in **GenAI, LLMs & Full-Stack Development**
-🌱 Learning: LangChain · RAG Pipelines · LLM Fine-tuning · Cloud Architecture
-💡 Passionate about solving real-world problems with AI
+<p align="center">
+  <b>GenAI & LLM Engineer · Multi-Agent AI Systems · Data Analytics · Python</b><br/>
+  B.Tech in Artificial Intelligence & Data Science · 3rd Year · Amravati, India
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/shrutika-hage-a1b9a5290">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shrutikahage2005">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shrutikahage2005&color=blue&style=flat" />
+</p>
+
+---
+
+## 🏆 Highlights
+
+| 🥉 | **4th Place — TCS-Sponsored National Hackathon** (SSGMCE, Mar 2026) — GenAI Maintenance Scheduler |
+|---|---|
+| 🤖 | **HackFusion 2026** — Autonomous Multi-Agent AI Pharmacy System (LangGraph + Groq + Gemini + Claude API) |
+| 🎓 | **AI-ML Virtual Intern** — Google for Developers + AICTE/EduSkills (Oct–Dec 2024) |
+| 📊 | **Data Analytics Intern** — Python & Power BI, AICTE/EduSkills (Jan–Mar 2026) |
+| 🏛️ | **NPTEL Certified** — Database Management System, IIT Kharagpur (Jul–Sep 2025) |
+| ☁️ | **3× Microsoft Learn Student Ambassador** certified (Azure · GitHub · VSCode & GitHub) |
 
 ---
 
 ## 💫 About Me
-- 🔭 I'm currently working on **RAG-based AI chatbot using LangChain + OpenAI API**
-- 👯 I'm looking to collaborate on **GenAI projects, ML applications & full-stack web apps**
-- 🤝 I'm looking for help with **LLM fine-tuning and MLOps best practices**
-- 🌱 I'm currently learning **LangChain, Vector Databases, LLM Fine-tuning & AWS Cloud**
-- 💬 Ask me about **Python, Machine Learning, GenAI, React, Power BI & Data Science**
-- ⚡ Fun fact **I believe the best AI is the kind users actually enjoy using!**
+
+- 🔭 Currently improving my **Autonomous AI Pharmacy System** with better agent memory and RAG capabilities
+- 🏗️ Building AI-powered analytics dashboards combining **Python + Power BI + LLM insights**
+- 🚀 Deploying GenAI apps on **Hugging Face Spaces & Vercel** for live demos
+- 💬 Ask me about **LangChain · LangGraph · Multi-Agent AI · Prompt Engineering · GenAI · Data Analytics**
+- 🎯 Looking for **internships & opportunities** in GenAI Engineering, LLM Applications, or AI Product Development
+- ⚡ Fun fact: I believe the best AI systems are the ones users forget are even AI — they just feel like magic
 
 ---
 
-## 🤝 Connect With Me
+## 🤖 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrutikahage2005)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/shrutikahage2005)
+### 💊 Autonomous AI Agentic Pharmacy System
+> HackFusion 2026 Hackathon · Multi-Agent · LangGraph Orchestration
+
+Built a fully autonomous multi-agent pharmacy ecosystem. Integrated LangFuse observability for Chain-of-Thought tracing. Designed structured documentation explaining the agentic pipeline for non-expert users.
+
+`LangChain` `LangGraph` `Groq API` `Gemini API` `Claude API` `FastAPI` `Python` `SQL` `LangFuse`
+
+🔗 [View Repository →](https://github.com/shrutikahage2005/AI_Pharmacist)
+
+---
+
+### 🔧 GenAI Maintenance Scheduler *(4th Place — National)*
+> TCS-Sponsored Hackathon, SSGMCE · Mar 2026
+
+Developed a Generative AI agent using Prompt Engineering and LLM reasoning pipelines to analyse equipment logs and generate prioritised maintenance schedules. Created educational documentation simplifying complex AI/ML workflows for non-technical stakeholders.
+
+`LangChain` `Gemini API` `Groq API` `Python` `SQL` `Prompt Engineering` `FastAPI`
+
+🔗 [View Repository →](https://github.com/shrutikahage2005/genai-maintenance-scheduler)
+
+---
+
+### 🧠 AI-Powered Skill Gap Analyzer
+> EdTech Platform · Career Development · GenAI
+
+An AI system that analyses a user's current skills against target job roles and generates a personalised learning roadmap using LLM reasoning.
+
+`LangChain` `Python` `GenAI` `FastAPI`
+
+🔗 [View Repository →](https://github.com/shrutikahage2005/skill-gap-analyzer)
 
 ---
 
 ## 💻 Tech Stack
 
-**AI / ML / GenAI**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-
-**Web Development**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+### 🤖 GenAI & LLM Engineering *(my primary domain)*
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![LangFuse](https://img.shields.io/badge/LangFuse-000000?style=flat&logoColor=white)
 
-**Data & Cloud**
+**Concepts:** Multi-Agent Systems · LangGraph Orchestration · Prompt Engineering · RAG Pipelines · Chain-of-Thought Reasoning · LLM Observability
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+### 📊 Data Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=Matplotlib&logoColor=black)
 
-**Other**
+### 🌐 Web & Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+### ☁️ Cloud & Tools
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📜 Certifications & Internships
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| 🤖 AI-ML Virtual Internship | Google for Developers + AICTE/EduSkills | Oct–Dec 2024 |
+| 📊 Data Analytics with Python & Power BI | AICTE/EduSkills | Jan–Mar 2026 |
+| 🏛️ Database Management System | NPTEL / IIT Kharagpur (SWAYAM) | Jul–Sep 2025 |
+| 🤖 Build Your Own Generative AI Model | NxtWave Workshop | Mar 2025 |
+| ☁️ Introduction to Microsoft Azure | Microsoft Learn Student Ambassador | Sep 2024 |
+| 🐙 Build & Deploy with VSCode & GitHub | Microsoft MLSC-PRPCEM | Sep 2024 |
+| 🐙 Introduction to GitHub & GitHub Education | Microsoft MLSC-PRPCEM | Oct 2024 |
+| 🌐 PHP & MySQL Training | EduPyramids / IIT Bombay (SINE) | Dec 2025 |
+| 📈 Introduction to Data Analytics | Simplilearn SkillUp | Feb 2025 |
+| 🟢 Getting Started with NodeJS | Simplilearn SkillUp | Feb 2026 |
+
+---
+
+## 🏅 Hackathons & Events
+
+| Event | Project | Result |
+|---|---|---|
+| TCS-Sponsored National Hackathon, SSGMCE | GenAI Maintenance Scheduler | 🥉 4th Place (National) |
+| HackFusion 2026 | Autonomous AI Pharmacy System | Participant |
+| Raisoni Summer of Code 2026 | CSE Hackathon, GH Raisoni Nagpur | Participant |
+| Technomillennia 24 — IEEE Student Conference | Volunteer | Certificate of Appreciation |
+| Ecothon 5.0 — Sipna Nature Club | Environment Initiative | Participant |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Shrutika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutikahage2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutikahage2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutikahage2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrutikahage2005&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutikahage2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutikahage2005&theme=dark&hide_border=false" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shrutikahage2005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrutikahage2005&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
-## 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=shrutikahage2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 🔭 What I'm Working On
-
-- 🤖 Building a RAG-based chatbot using LangChain + OpenAI
-- 📊 Data visualization dashboards with Power BI
-- 🌐 Full-stack web apps with React + Node.js
-
----
-
-[![](https://visitcount.itsvg.in/api?id=shrutikahage2005&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <i>"The best AI is the kind users forget is even AI — it just feels like magic."</i><br/>
+  <b>— Shrutika Hage</b>
+</p>
