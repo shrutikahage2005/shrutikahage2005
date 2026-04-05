@@ -1,4 +1,4 @@
-# Hi there! I'm Shruti Kahage 👋
+# Hi there! I'm Shrutika hage 👋
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 📍 India | 3rd Year Student
