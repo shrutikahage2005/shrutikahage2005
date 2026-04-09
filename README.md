@@ -49,7 +49,7 @@ Built a fully autonomous multi-agent pharmacy ecosystem. Integrated LangFuse obs
 
 `LangChain` `LangGraph` `Groq API` `Gemini API` `Claude API` `FastAPI` `Python` `SQL` `LangFuse`
 
-🔗 [View Repository →](https://github.com/shrutikahage2005/AI_Pharmacist)
+🔗 [View Repository →]((https://github.com/shrutikahage2005/PHARMACARE_AI))
 
 ---
 
@@ -60,7 +60,7 @@ Developed a Generative AI agent using Prompt Engineering and LLM reasoning pipel
 
 `LangChain` `Gemini API` `Groq API` `Python` `SQL` `Prompt Engineering` `FastAPI`
 
-🔗 [View Repository →](https://github.com/shrutikahage2005/genai-maintenance-scheduler)
+🔗 [View Repository →](https://github.com/shrutikahage2005/Predictive-Maintenance-AI-Agent)
 
 ---
 
