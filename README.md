@@ -49,7 +49,7 @@ Built a fully autonomous multi-agent pharmacy ecosystem. Integrated LangFuse obs
 
 `LangChain` `LangGraph` `Groq API` `Gemini API` `Claude API` `FastAPI` `Python` `SQL` `LangFuse`
 
-🔗 [View Repository →]((https://github.com/shrutikahage2005/PHARMACARE_AI))
+🔗 [View Repository →](https://github.com/shrutikahage2005/PHARMACARE_AI)
 
 ---
 
