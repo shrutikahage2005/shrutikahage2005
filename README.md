@@ -19,7 +19,7 @@
 
 ## 🏆 Highlights
 
-| 🥉 | **4th Place — TCS-Sponsored National Hackathon** (SSGMCE, Mar 2026) — GenAI Maintenance Scheduler |
+| 🥉 | **4th Place — TCS-Sponsored Problem Statement National Hackathon** (SSGMCE, Mar 2026) — GenAI Maintenance Scheduler |
 |---|---|
 | 🤖 | **HackFusion 2026** — Autonomous Multi-Agent AI Pharmacy System (LangGraph + Groq + Gemini + Claude API) |
 | 🎓 | **AI-ML Virtual Intern** — Google for Developers + AICTE/EduSkills (Oct–Dec 2024) |
@@ -54,7 +54,7 @@ Built a fully autonomous multi-agent pharmacy ecosystem. Integrated LangFuse obs
 ---
 
 ### 🔧 GenAI Maintenance Scheduler *(4th Place — National)*
-> TCS-Sponsored Hackathon, SSGMCE · Mar 2026
+> TCS-Sponsored Problem Statement Hackathon, SSGMCE · Mar 2026
 
 Developed a Generative AI agent using Prompt Engineering and LLM reasoning pipelines to analyse equipment logs and generate prioritised maintenance schedules. Created educational documentation simplifying complex AI/ML workflows for non-technical stakeholders.
 
